@@ -1,3 +1,3 @@
-A Scala project using Martin's utilities library.
+Scala project using the utilities library.
 
-Martin Kay - 2014
+Ignacio Cases - 2015
